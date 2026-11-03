@@ -63,10 +63,10 @@ streamlit run app.py
 
 ### Positive Sentiment Prediction
 
-![Positive Review](screenshots/positive.png)
+![Positive Review](https://github.com/user-attachments/assets/c0ed2872-9bea-4270-8f2f-3fed532d765e)
 
 ### Negative Sentiment Prediction
 
-![Negative Review](screenshots/negative.png)
+![Negative Review](https://github.com/user-attachments/assets/e113c05c-71f6-4e07-8bdb-23b3a8950a14)
 
 
