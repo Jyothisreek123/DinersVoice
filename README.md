@@ -59,6 +59,14 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+## Application Screenshots
 
+### Positive Sentiment Prediction
+
+![Positive Review](screenshots/positive.png)
+
+### Negative Sentiment Prediction
+
+![Negative Review](screenshots/negative.png)
 
 
